@@ -1,6 +1,11 @@
-# Deneb Guide - Custom Donut Chart
+Created by:  Wilfred Kluin  
+Date      :  14-07-2026  
+Release   :  1.0 
 
-This guide explains how to build a donut/progress visual in Deneb with a dynamic dot (endpoint marker). .
+# Deneb Guide - Custom Donut Chart
+This guide explains how to build a donut/progress visual in Deneb with a dynamic dot (endpoint marker). 
+
+
 
 ## What You Get
 
